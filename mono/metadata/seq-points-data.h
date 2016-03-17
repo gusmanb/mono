@@ -6,6 +6,7 @@
 #define __MONO_SEQ_POINTS_DATA_H__
 
 #include <glib.h>
+#include <mono/utils/mono-publib.h>
 
 #define MONO_SEQ_POINT_FLAG_NONEMPTY_STACK 1
 #define MONO_SEQ_POINT_FLAG_EXIT_IL 2
